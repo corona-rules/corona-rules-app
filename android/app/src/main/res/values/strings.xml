@@ -2,6 +2,6 @@
 <resources>
     <string name="app_name">corona-rules-app</string>
     <string name="title_activity_main">corona-rules-app</string>
-    <string name="package_name">de.codext.coronainfo.app</string>
-    <string name="custom_url_scheme">de.codext.coronainfo.app</string>
+    <string name="package_name">de.codext.coronarules.app</string>
+    <string name="custom_url_scheme">de.codext.coronarules.app</string>
 </resources>
