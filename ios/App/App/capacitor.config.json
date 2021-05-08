@@ -1,1 +1,13 @@
-{}
+{
+	"appId": "de.codext.coronainfo.app",
+	"appName": "corona-rules-app",
+	"bundledWebRuntime": false,
+	"npmClient": "npm",
+	"webDir": "www",
+	"plugins": {
+		"SplashScreen": {
+			"launchShowDuration": 0
+		}
+	},
+	"cordova": {}
+}
