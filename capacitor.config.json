@@ -1,6 +1,6 @@
 {
   "appId": "de.codext.coronainfo.app",
-  "appName": "corona-rules-app",
+  "appName": "Corona Regeln",
   "bundledWebRuntime": false,
   "npmClient": "npm",
   "webDir": "www",
