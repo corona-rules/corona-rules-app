@@ -1,0 +1,7 @@
+{
+  "name": "corona-rules-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
