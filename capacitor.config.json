@@ -1,5 +1,5 @@
 {
-  "appId": "io.ionic.starter",
+  "appId": "de.codext.coronainfo.app",
   "appName": "corona-rules-app",
   "bundledWebRuntime": false,
   "npmClient": "npm",
