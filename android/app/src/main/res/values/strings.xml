@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">corona-rules-app</string>
-    <string name="title_activity_main">corona-rules-app</string>
+    <string name="app_name">Corona Regeln</string>
+    <string name="title_activity_main">Corona Regeln</string>
     <string name="package_name">de.codext.coronarules.app</string>
     <string name="custom_url_scheme">de.codext.coronarules.app</string>
 </resources>
